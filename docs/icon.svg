@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" width="216" height="216" role="img" aria-label="Flick app icon: a cream print trailing three fading echoes on an orange background">
+  <defs>
+    <radialGradient id="bg" cx="74" cy="30" r="100" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FF8A4A"/>
+      <stop offset="0.5" stop-color="#FF4F1F"/>
+      <stop offset="1" stop-color="#C7260A"/>
+    </radialGradient>
+    <clipPath id="squircle"><rect x="12" y="12" width="84" height="84" rx="24"/></clipPath>
+    <path id="sheet" d="M-10,-15h20a4,4 0,0 1,4 4v22a4,4 0,0 1,-4 4h-20a4,4 0,0 1,-4 -4v-22a4,4 0,0 1,4 -4z"/>
+  </defs>
+  <g clip-path="url(#squircle)">
+    <rect width="108" height="108" fill="url(#bg)"/>
+    <use href="#sheet" transform="translate(38,68) rotate(-34)" fill="#FFF6E9" fill-opacity="0.16"/>
+    <use href="#sheet" transform="translate(45,62) rotate(-25)" fill="#FFF6E9" fill-opacity="0.3"/>
+    <use href="#sheet" transform="translate(52,56) rotate(-16)" fill="#FFF6E9" fill-opacity="0.52"/>
+    <g transform="translate(61,48) rotate(-7)">
+      <use href="#sheet" transform="translate(1,2)" fill="#5A1000" fill-opacity="0.28"/>
+      <use href="#sheet" fill="#FFF6E9"/>
+      <rect x="-11" y="-12" width="22" height="17" rx="1" fill="#1A1512"/>
+      <circle cx="5" cy="-5" r="3" fill="#FF5A2A"/>
+    </g>
+  </g>
+</svg>

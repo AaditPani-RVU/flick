@@ -1,7 +1,15 @@
+<p align="center">
+  <img src="docs/icon.svg" width="112" alt="Flick app icon">
+</p>
+
 <h1 align="center">Flick</h1>
 
 <p align="center">
   <b>Flick your Android phone toward your Mac. The photo lands on the screen.</b>
+</p>
+
+<p align="center">
+  <img src="docs/hero.svg" alt="A phone flicks a photo along an arc onto a Mac screen">
 </p>
 
 <p align="center">
@@ -27,7 +35,13 @@ No account, no cloud, no cable. The two devices talk directly over your Wi‑Fi.
 | Any file | Lands as a paper card with its icon and name |
 | Text you copied | Lands in the clipboard, ready to paste |
 
+<p align="center">
+  <img src="docs/cards.svg" alt="The three kinds of card as they land on the Mac: a photo, a file and copied text">
+</p>
+
 Click a card on the Mac to show the file in Finder, or drag the card wherever you want it.
+
+<sub>The pictures on this page are illustrations of the app, not screenshots.</sub>
 
 ## How to use it
 
